@@ -1,113 +1,115 @@
 [[Check]]
 arch = "aarch64"
-git-tree-sha1 = "412c4b8ce3ac9b1806dfcf40d0ff9a183f0cf351"
+git-tree-sha1 = "5215a8edd918bb8c917db03b45198ceb11a3513c"
 libc = "glibc"
 os = "linux"
 
     [[Check.download]]
-    sha256 = "b5d538e2cc9aae95d91af700565b4046c2fab427eae025f057508af4059d764f"
-    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.1+0/Check.v0.15.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "bee225c74ccefef803e0bbbb02e8ebab3191dce1e121754221d00adad40f5bd6"
+    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.2+0/Check.v0.15.2.aarch64-linux-gnu.tar.gz"
 [[Check]]
 arch = "aarch64"
-git-tree-sha1 = "891d7d4b2156fa20524f6ae32103755a88a78ebf"
+git-tree-sha1 = "5a20141aead7137c9664c7ea8ce19324296c7def"
 libc = "musl"
 os = "linux"
 
     [[Check.download]]
-    sha256 = "763b7e8fb63a9f4022d8eddb2ac4d3a8a9c3f39287b63f38749405bc47556642"
-    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.1+0/Check.v0.15.1.aarch64-linux-musl.tar.gz"
+    sha256 = "e10fc52d33a303b02587b6bdaa6a40e8ecb935eff48eca3ed349afb2c86171dc"
+    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.2+0/Check.v0.15.2.aarch64-linux-musl.tar.gz"
 [[Check]]
 arch = "armv7l"
-git-tree-sha1 = "7ccf2978eb3f6e0caaf39da83ba2f6f88cc6af1e"
+call_abi = "eabihf"
+git-tree-sha1 = "689ae8dfecc3e6c943eea40d1f2a7694342f3418"
 libc = "glibc"
 os = "linux"
 
     [[Check.download]]
-    sha256 = "5ad2d8f135c55ae0c01ccea12cc800e434b3945e2c0ed4922171b763c3b09af0"
-    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.1+0/Check.v0.15.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "f5b104a61a4b38b414da16ee647225da30f89cf622db1c9bde1176173f04a28c"
+    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.2+0/Check.v0.15.2.armv7l-linux-gnueabihf.tar.gz"
 [[Check]]
 arch = "armv7l"
-git-tree-sha1 = "89596eb32266456cfb1ab2f1e245baf7fc7211d6"
+call_abi = "eabihf"
+git-tree-sha1 = "11b3c781fbe76e637ca402afe9db67d21cb39046"
 libc = "musl"
 os = "linux"
 
     [[Check.download]]
-    sha256 = "f5cddbdec088c2e2cf07735ed909fbec0e5f19f4a047287e62879cff141f0c4c"
-    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.1+0/Check.v0.15.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "6062fd69adfdfa797058b95c09b3ca78da5482b006f9757d1da7f7d3894fd725"
+    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.2+0/Check.v0.15.2.armv7l-linux-musleabihf.tar.gz"
 [[Check]]
 arch = "i686"
-git-tree-sha1 = "7148b9c77c48199dd25de4ba66c6244c3bb63df3"
+git-tree-sha1 = "56f65a892159b7b3b1dae3596591d927279894e1"
 libc = "glibc"
 os = "linux"
 
     [[Check.download]]
-    sha256 = "3b4f6e66d78e18281f319c0fc9cc3d054eea65bf5781e2f2ab5482cd48a0254b"
-    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.1+0/Check.v0.15.1.i686-linux-gnu.tar.gz"
+    sha256 = "09dac3ec11e7957e7b03e5a3ab4d23a6a632c7a9c5dca13f1d3e00dcdb14b3b9"
+    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.2+0/Check.v0.15.2.i686-linux-gnu.tar.gz"
 [[Check]]
 arch = "i686"
-git-tree-sha1 = "3e722da568015b3d5a5277fc9bf9237580de16a8"
+git-tree-sha1 = "3179bc3d0dd27c5a4a647cc5929df4836a28cf6b"
 libc = "musl"
 os = "linux"
 
     [[Check.download]]
-    sha256 = "e328fa38f9ccd8d106c67a6c3e784ec3a37c98e98be52c6be95ede08ff2169d9"
-    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.1+0/Check.v0.15.1.i686-linux-musl.tar.gz"
+    sha256 = "1feed024c454894c4e429086e3200107cdb1c187ee0971f6b08fd9acdc7e9433"
+    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.2+0/Check.v0.15.2.i686-linux-musl.tar.gz"
 [[Check]]
 arch = "i686"
-git-tree-sha1 = "3da51407f5deae5cd9222e308023979ef528695f"
+git-tree-sha1 = "d1aaf37bcbe46ad4cc9f01e5a547b308c45f29a6"
 os = "windows"
 
     [[Check.download]]
-    sha256 = "5a9e7afcda66a93a54dc05e3257c064ef8d2114ec2a09fdc9d3d834ddf9365f9"
-    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.1+0/Check.v0.15.1.i686-w64-mingw32.tar.gz"
+    sha256 = "b8d6edf04704518a16c6e85377abd382a70e4aaeb58a1250b6a2ba587b088b51"
+    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.2+0/Check.v0.15.2.i686-w64-mingw32.tar.gz"
 [[Check]]
 arch = "powerpc64le"
-git-tree-sha1 = "f360d941e83bfa2127851c328e6b5ac2c837bcaf"
+git-tree-sha1 = "4d21d262265fe96d416d68d9bd59fbb74be6578a"
 libc = "glibc"
 os = "linux"
 
     [[Check.download]]
-    sha256 = "15196280784412f71360d6ac0727d296757a23c10416895a5a042c6a08c5c5b2"
-    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.1+0/Check.v0.15.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "1672c452c8742a9f70980e778623a2aa9d9f4ecd51304faa55e01d09457dca17"
+    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.2+0/Check.v0.15.2.powerpc64le-linux-gnu.tar.gz"
 [[Check]]
 arch = "x86_64"
-git-tree-sha1 = "0bbe9a2d819099d48630e75fd38657dbf2892d0b"
+git-tree-sha1 = "e87667b021cdbe44458160aa4c478c0704f30566"
 os = "macos"
 
     [[Check.download]]
-    sha256 = "1c0e3fec1cdd6c2d99bf30dbabd9d97d6abd719587fd0ac3daf4129db8335d6e"
-    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.1+0/Check.v0.15.1.x86_64-apple-darwin14.tar.gz"
+    sha256 = "34e3d28e0155cd172499d50fb73d60f2ffbf6992c319f8c22b50b50c35acfb4f"
+    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.2+0/Check.v0.15.2.x86_64-apple-darwin.tar.gz"
 [[Check]]
 arch = "x86_64"
-git-tree-sha1 = "44ef113c84b0f6f764c76820a15fa0a4e1f69e65"
+git-tree-sha1 = "1db1d02f721de1495215f9ca23bd9c53a3d60539"
 libc = "glibc"
 os = "linux"
 
     [[Check.download]]
-    sha256 = "29b9d9b68f8bef21ded165e7564b4a6a8d220f7c7c25c8439451aa1a99aef16d"
-    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.1+0/Check.v0.15.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "8d674eb7649c23183ae4f9f895f762fc11f3123a8bb5f019f963016da6b04597"
+    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.2+0/Check.v0.15.2.x86_64-linux-gnu.tar.gz"
 [[Check]]
 arch = "x86_64"
-git-tree-sha1 = "a7a18bec32a3b54d57a61700ec637ddd710df30f"
+git-tree-sha1 = "3984663d8f2016b85189d7b9cb5d68388a5a0e45"
 libc = "musl"
 os = "linux"
 
     [[Check.download]]
-    sha256 = "dc087c215f9422cd35333d55ac07969cbffd862d162b85a47bbaea6c03521567"
-    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.1+0/Check.v0.15.1.x86_64-linux-musl.tar.gz"
+    sha256 = "d0d4c0c1f936c503c9f8ad9e1f10f513c6ea2035a40f824d9674e322ceda1dac"
+    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.2+0/Check.v0.15.2.x86_64-linux-musl.tar.gz"
 [[Check]]
 arch = "x86_64"
-git-tree-sha1 = "2edda357ce2fa571ba693f803012737988106ad3"
+git-tree-sha1 = "3828f82fd3f17109683566f302b8059994cd0617"
 os = "freebsd"
 
     [[Check.download]]
-    sha256 = "b89273d36a222bcbc7617e3e6440acaa19ce57d782b5ab97c46f8f85ced73af6"
-    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.1+0/Check.v0.15.1.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "6b1c9ad8f9316ac50306f6b113c7f9598e16c7219e41e16fe78a97a8f8af98a3"
+    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.2+0/Check.v0.15.2.x86_64-unknown-freebsd.tar.gz"
 [[Check]]
 arch = "x86_64"
-git-tree-sha1 = "093a11f97a700feeefd1988ca756ae6856854574"
+git-tree-sha1 = "2c856d954dd0d18d337b274bc7e238be3ef3748e"
 os = "windows"
 
     [[Check.download]]
-    sha256 = "b9e8f2c54ef71fd32cccb9cf9ba8cd96c3ac44c3a9f103a10b7a2581b4a47709"
-    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.1+0/Check.v0.15.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "affde374609e7205384c37c51d62ea17393fd2cbd2ab7e78d9709e60dc319ce9"
+    url = "https://github.com/JuliaBinaryWrappers/Check_jll.jl/releases/download/Check-v0.15.2+0/Check.v0.15.2.x86_64-w64-mingw32.tar.gz"
